@@ -1,4 +1,5 @@
 #!/bin/bash
+### New Lines added
 FILENAME="/etc/passwd"
 MATCH=0
 while IFS=: read -r username password userid groupid comment homedir cmdshell
